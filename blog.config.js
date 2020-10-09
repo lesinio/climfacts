@@ -4,13 +4,13 @@ module.exports = {
   /**
    * The name of the site, used in html titles and copyright.
    */
-  site_name: 'Miner',
+  site_name: 'ClimFacts, climate facts for climate acts',
 
   /**
    * The host part, to be used by <link rel="canonical" href="..."> meta tags,
    * to define a canonical url for SEO purposes.
    */
-  canon_host: 'https://miner.github.io',
+  canon_host: 'https://climfacts.org',
 
   /**
    * Options: date, order_num, or really any field in yaml front matter metadata.
@@ -38,7 +38,7 @@ module.exports = {
    * When generating slugs off of `date` field value (ISO string), use a local
    * timezone of your residence so it's the correct date.
    */
-  timezone: 'America/Los_Angeles',
+  timezone: 'Europe/Paris',
 
   /**
    * Author meta info for displaying on each blog post.
@@ -47,10 +47,10 @@ module.exports = {
    * The bio is default for each author and can be overwritten per post.
    */
   authors: {
-    'Jane Dev': {
+    'Lesinio': {
       thumbnail: '/author-avatar.jpg',
       bio:
-        'Senior Software Engineer @HipPayments. Previously, Software Engineer @RaiseBag, and Computer Science @UCDavis.',
+        'Concerned citizen',
     },
   },
 
@@ -68,7 +68,7 @@ module.exports = {
    * Utterances widget config. See https://utteranc.es for details.
    */
   utterances: {
-    repo: 'your-github-name/your-github-comments-repo',
+    repo: 'lesinio/climfacts-comments',
     'issue-term': 'pathname',
     theme: 'github-light',
   },

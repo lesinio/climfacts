@@ -51,13 +51,13 @@
 <nav>
   <ul>
     <li>
-      <a rel="prefetch" class:selected={segment === undefined} href=".">home</a>
+      <a rel="prefetch" class:selected={segment === undefined} href=".">accueil</a>
     </li>
     <li>
       <a rel="prefetch" class:selected={segment === 'blog'} href="blog">blog</a>
     </li>
     <li>
-      <a rel="prefetch" class:selected={segment === 'about'} href="about">about</a>
+      <a rel="prefetch" class:selected={segment === 'about'} href="about">à propos</a>
     </li>
   </ul>
 </nav>
