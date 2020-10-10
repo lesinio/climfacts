@@ -231,6 +231,8 @@
 
 <svelte:head>
   <link rel="canonical" href={url} />
+
+  <!-- Open Graph / Facebook -->
   <meta property="og:title" content={post.title} />
   <meta property="og:url" content={url} />
   <meta property="og:type" content="article" />
@@ -238,6 +240,16 @@
   {#if post.preview_image}
     <meta property="og:image" content="{blogConfig.canon_host}{post.preview_image}" />
   {/if}
+
+  <!-- Twitter -->
+  <meta property="twitter:card" content="summary_large_image">
+  <meta property="twitter:url" content="{url}">
+  <meta property="twitter:title" content="{post.title}">
+  <meta property="twitter:description" content="{post.preview}">
+  {#if post.preview_image}
+    <meta property="twitter:image" content="{blogConfig.canon_host}{post.preview_image}">
+  {/if}
+
   <title>{post.title} - {blogConfig.site_name}</title>
 </svelte:head>
 

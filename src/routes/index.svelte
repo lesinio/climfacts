@@ -69,10 +69,24 @@
 
 <svelte:head>
   <link rel="canonical" href={blogConfig.canon_host} />
+  
+  <!-- Open Graph / Facebook -->
   <meta property="og:title" content={blogConfig.site_name} />
   <meta property="og:url" content={blogConfig.canon_host} />
   <meta property="og:type" content="website" />
-  <meta property="og:description" content="Miner blog and web site." />
+  <meta property="og:description" content="ClimFacts blog and web site." />
+  <meta property="og:image" content="{blogConfig.canon_host}/warming-stripes-small.png">
+  <meta property="og:image:type" content="image/png">
+  <meta property="og:image:width" content="1257">
+  <meta property="og:image:height" content="1257">
+
+  <!-- Twitter -->
+  <meta property="twitter:card" content="summary_large_image">
+  <meta property="twitter:url" content="{blogConfig.canon_host}/">
+  <meta property="twitter:title" content="{blogConfig.site_name}">
+  <meta property="twitter:description" content="ClimFacts blog and web site.">
+  <meta property="twitter:image" content="{blogConfig.canon_host}/warming-stripes-small.png">
+
   <title>{blogConfig.site_name}</title>
 </svelte:head>
 

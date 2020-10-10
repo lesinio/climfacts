@@ -3,6 +3,7 @@ title: 1 milliard de personnes survivront en 2100 dans un scénario "business as
 date: 2020-10-09
 author: Lesinio
 preview: "Cette information provient d'un article du Guardian dont voici un extrait..."
+preview_image: /posts/1-billion-people-left-in-2100/preview.png
 ---
 
 # 1 milliard d'êtres humains en 2100 ?
