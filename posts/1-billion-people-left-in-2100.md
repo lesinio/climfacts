@@ -36,7 +36,9 @@ On remarque notament des reprises par des sites  anglosaxons populaires traitant
 Mais aussi en France :
 - Resistance climatique : <a href="https://www.resistanceclimatique.org/invbc">Guide de formation / Guide de l’animateur (p. 16)</a>
 - La fresque du climat dans une interview sur BFMTV :
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nALHscSDTSE?start=262" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div class="video-container">
+     <iframe src="https://www.youtube.com/embed/nALHscSDTSE?start=262" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 ## Y a-t-il un problème avec cette information ?
 
@@ -56,16 +58,22 @@ Rockström said he had not seen the misquote until I emailed him, and that he ha
 <u>Note</u>: Concernant Michael Shellenberger, merci de ne pas faire d'attaque ad hominem, le personnage étant controversé, ça n'a pas beaucoup d'importance ici.
 </small>
 
+<br>
+<br>
 
 ## La reprise à la télévision britanique
 
 Cette simple erreur de retranscription oral/écrit a eu un certain retentissement, à l'origine surtout chez nos amis britanniques, notamment car elle a été reprise par des membres d’Extinction Rebellion sur la BBC à deux reprises.
 
 - Une fois par Roger Hallam (août 2019)
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9HyaxctatdA?start=989" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div class="video-container">
+     <iframe width="560" height="315" src="https://www.youtube.com/embed/9HyaxctatdA?start=989" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 - Et une autre fois par Sarah Lunnon (par suggestion de la journaliste) (octobre 2019)
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BhVD5jWbaXs?start=151" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div class="video-container">
+     <iframe width="560" height="315" src="https://www.youtube.com/embed/BhVD5jWbaXs?start=151" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 Une fois la correction effectuée par le Guardian et ces interviews parues à la BBC, les partisants de l'écomodernisme tel que le <a href="https://thebreakthrough.org/">Breakthrough Institute</a> et <a href="https://environmentalprogress.org/">Environmental Progress</a> se sont alors jetés sur l’occasion pour essayer de discréditer les fondations scientifiques d’Extinction Rebellion. Cet épisode est bien rapporté dans cet <a href="https://extinctionrebellion.uk/2020/09/16/statement-on-zion-lights-michael-shellenberger-and-the-breakthrough-institute/">article d’Extinction Rebellion</a>.
 
@@ -82,9 +90,7 @@ Une fois la correction effectuée par le Guardian et ces interviews parues à la
 
 Et notamment cette figure qui montre le nombre de jours létaux pour l’Homme dans les conditions de température et d’humidité de l’air à l’horizon 2100 dans un scénario RCP 8.5.
 
-<img src="/posts/1-billion-people-left-in-2100/number-of-days-per-year-above-deadly-threshold-RCP8.5.PNG"
-     alt="Number of days per year above deadly threshold in scenario RCP 8.5"
-     style="width: 38em;" />
+![Number of days per year above deadly threshold in scenario RCP 8.5](/posts/1-billion-people-left-in-2100/number-of-days-per-year-above-deadly-threshold-RCP8.5.PNG)
 
 Autrement dit, des milliards de personnes pourraient vivre plus de 200 jours par an dans des conditions de température et d'humidité de l'air létales. Ces personnes vont donc soit mourir, soit se déplacer.
 
