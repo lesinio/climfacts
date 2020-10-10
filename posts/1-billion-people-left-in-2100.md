@@ -10,7 +10,7 @@ preview_image: /posts/1-billion-people-left-in-2100/preview.png
 
 Depuis un peu plus d'un an une information est diffusée sur de nombreux sites, les réseaux sociaux et lors d'interviews à la télévision.
 
-> Le changement climatique entraînerait un bouleversement tel que la Terre ne pourrait accueillir plus qu'un milliard, voire 500 millions, d'humain en 2100 si le scénario business as usual du GIEC se poursuivait.
+> Le changement climatique entraînerait un bouleversement tel que la Terre ne pourrait accueillir plus qu'un milliard, voire 500 millions, d'humains en 2100 si le scénario business as usual du GIEC se poursuivait.
 
 Avec <a href="https://duckduckgo.com/?t=ffab&q=%22difficult+to+see+how+we+could+accommodate+a+billion+people+or+even+half+of+that%22&ia=web">cette recherche</a> on retrouve quelques sites qui ayant diffusé cette information.
 
