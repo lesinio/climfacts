@@ -105,19 +105,19 @@ Sans tenir compte donc des baisses de rendement agricoles, qui méritent d’êt
 
 Difficile à prédire.
 
-### 2/ Johan Rockström a partagé un sentiment 
+### 2/ Johan Rockström a partagé son sentiment d'expert 
 
-Johan Rockström a partagé au Guardian son sentiment en tant qu’expert du climat, que la Terre ne devrait être capable d’accueillir que 4 à 8 milliards d’habitants dans ces conditions. Mais il faut bien distinguer cette déclaration, des rapports du GIEC qui font office de consensus scientifique. Il y a bien assez à s’inquiéter avec ces rapports, sans en rajouter.
+Johan Rockström a partagé au Guardian son sentiment en tant qu’expert du climat, que la Terre ne devrait être capable d’accueillir que 4 à 8 milliards d’habitants dans ces conditions. Mais il faut bien distinguer cette déclaration subjective, même si venant d'un expert, des rapports du GIEC qui font office de consensus scientifique. Il y a déjà bien assez à s’inquiéter avec ces rapports, sans avoir besoin de recourir à des arguments d'autorité.
 
 ### 3/ Les erreurs journalistiques
 
-Faisons attention aux chiffres, tous les chiffres, mais spécialement ceux dont l’ordre de grandeur paraît en décalage avec ceux que nous avons déjà en tête. Vérifions l’information. Vérifions en l’origine scientifique, au sens de publication scientifique revue par les pairs. 
+Faisons attention aux chiffres, tous les chiffres, mais spécialement ceux dont l’ordre de grandeur paraît en décalage avec ceux que nous avons déjà en tête. Vérifions l’information. Vérifions en l'origine scientifique, au sens de publication scientifique revue par les pairs. 
 
 Dans le cas qui nous intéresse ici, la source d’information était un article de blog qui a repris une information citée par quelqu’un dans une émission de télévision qui lui même l’a repris d'une interview dans un journal grand public ...
 
 ### 4/ Visitons les sites de fact checking
 
-Enfin allons voir les sites de vérification d'information ayant une grande rigueur scientifique tels que <a href="https://climatefeedback.org/">Climate Feedback</a>, qui avait <a href="https://climatefeedback.org/claimreview/prediction-extinction-rebellion-climate-change-will-kill-6-billion-people-unsupported-roger-hallam-bbc/">debunké cette info</a> bien avant qu’elle n’ait été corrigée par le Guardian.
+Enfin, visitons les sites de vérification de l'information ayant une grande rigueur scientifique tels que <a href="https://climatefeedback.org/">Climate Feedback</a>, qui avait <a href="https://climatefeedback.org/claimreview/prediction-extinction-rebellion-climate-change-will-kill-6-billion-people-unsupported-roger-hallam-bbc/">debunké cette info</a> bien avant qu’elle n’ait été corrigée par le Guardian.
 
 Un autre excellent site de fact checking est <a href="https://climatetippingpoints.info/">Climate Tipping Points</a> (avec une <a href="https://bonpote.com/changement-climatique-catastrophisme-et-effondrement-fact-checking/">traduction en français</a> par Loïc Giaccone).
 
@@ -127,7 +127,7 @@ Une simple erreur humaine de retranscription oral/écrit, dans un journal à for
 
 Il se peut que cette erreur ait modelé en profondeur la représentation mentale que beaucoup se font du monde en 2100 dans un scénario RCP 8.5.
 
-Et c'est bien normal, nous n'imaginons pas du tout le même monde avec une population soutenable d'1 milliard d'individus ou avec celle-ci quelque part entre 4 et 8 milliards d'individus.
+Et ce serait bien normal. En effet nous n'imaginons pas du tout le même monde avec une population soutenable d'1 milliard d'individus ou avec celle-ci se situant quelque part entre 4 et 8 milliards d'individus.
 
 Il est important de garder une grande rigueur scientifique, non pas seulement de la part des producteurs de connaissance (les scientifiques), non pas seulement de la part des journalistes, dont c'est le métier de relayer l'information, mais également de la part de chaque citoyen qui se voit donner le même pouvoir que chaque journaliste avec les réseaux sociaux et leur énorme pouvoir de propagation de l'information.
 
