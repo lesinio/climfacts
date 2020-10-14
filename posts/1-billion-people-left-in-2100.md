@@ -21,7 +21,9 @@ On remarque notamment des reprises par des sites  anglo saxons populaires traita
 - Ecohustler : <a href="https://ecohustler.com/culture/could-climate-change-really-kill-six-billion-people-by-2100/">Could climate change REALLY kill six billion people by 2100?</a> (décembre 2019)
 
 Ainsi qu'en France par :
-- Resistance climatique : <a href="https://www.resistanceclimatique.org/invbc">Guide de formation / Guide de l’animateur (p. 16)</a>
+- Resistance climatique : <a href="https://www.resistanceclimatique.org/invbc">Guide de formation / Guide de l’animateur INVBC (p. 16)</a>
+
+<small><u><b>Edit (14/10/2020)</b></u> : Suite à notre sollicitation, Resistance climatique a indiqué qu'ils allaient corriger le guide INVBC prochainement.</small>
 - La fresque du climat dans une interview sur BFMTV :
 <div class="video-container">
      <iframe src="https://www.youtube.com/embed/nALHscSDTSE?start=262" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
