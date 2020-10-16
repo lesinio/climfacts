@@ -12,7 +12,7 @@ Depuis un peu plus d'un an une information est diffusée sur de nombreux sites, 
 
 > Le changement climatique entraînerait un bouleversement tel que la Terre ne pourrait accueillir plus qu'un milliard, voire 500 millions, d'humains en 2100 si le scénario business as usual du GIEC se poursuivait.
 
-Avec <a href="https://duckduckgo.com/?t=ffab&q=%22difficult+to+see+how+we+could+accommodate+a+billion+people+or+even+half+of+that%22&ia=web">cette recherche</a> on retrouve quelques sites qui ayant diffusé cette information.
+Avec <a href="https://duckduckgo.com/?t=ffab&q=%22difficult+to+see+how+we+could+accommodate+a+billion+people+or+even+half+of+that%22&ia=web">cette recherche</a> on retrouve quelques sites ayant diffusé cette information.
 
 On remarque notamment des reprises par des sites  anglo saxons populaires traitant du changement climatique :
 - Voice of action : <a href="https://voiceofaction.org/collapse-of-civilisation-is-the-most-likely-outcome-top-climate-scientists/">‘Collapse of civilisation is the most likely outcome’: top climate scientists</a> (juin 2020)
