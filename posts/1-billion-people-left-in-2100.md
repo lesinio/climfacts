@@ -97,11 +97,16 @@ Une fois la correction effectuée par le Guardian et ces interviews parues à la
 - Voir les rapports du GIEC. Notamment le résumé à l’intention des décideurs du dernier rapport de synthèse, <a href="https://www.ipcc.ch/site/assets/uploads/2018/06/AR5_SYR_FINAL_SPM.pdf">en anglais</a> ou <a href="https://www.ipcc.ch/site/assets/uploads/2018/02/AR5_SYR_FINAL_SPM_fr.pdf">en français</a>. Et les innombrables ressources sur internet.
 - L’environnement qui attend l’humanité dans un scénario tel que celui du Business as usual (RCP 8.5) est apocalyptique, une simple publication scientifique pour soutenir ceci : <a href="https://www.nature.com/articles/nclimate3322">Global risk of deadly heat</a> (ou sur <a href="https://sci-hub.se/10.1038/nclimate3322">SciHub</a> si vous n'avez pas d'accès à Nature)
 
-Et notamment cette figure qui montre le nombre de jours létaux pour l’Homme dans les conditions de température et d’humidité de l’air à l’horizon 2100 dans un scénario RCP 8.5.
+Et notamment cette figure qui montre le nombre de jours létaux pour l'Homme dans les conditions de température et d’humidité de l'air (comprendre des jours pendant lesquels un nombre significatif de personnes meurent du fait de vagues de chaleur intenses) historiquement et à l'horizon 2100 dans un scénario RCP 8.5.
 
-![Number of days per year above deadly threshold in scenario RCP 8.5](/posts/1-billion-people-left-in-2100/number-of-days-per-year-above-deadly-threshold-RCP8.5.PNG)
+![Number of days per year above lethal threshold historically](/posts/1-billion-people-left-in-2100/number-of-days-per-year-above-deadly-threshold-historical.PNG)
+![Number of days per year above deadly threshold in 2100 in scenario RCP 8.5](/posts/1-billion-people-left-in-2100/number-of-days-per-year-above-deadly-threshold-RCP8.5.PNG)
 
-Cette figure nous dit que des milliards de personnes pourraient vivre plus de 200 jours par an dans des conditions de température et d'humidité de l'air létales. Ces personnes vont donc soit mourir, soit se déplacer.
+Cette figure nous montre qu'environ 30% de la population mondiale est actuellement exposée à plus de 20 jours par an à des vagues de chaleur intenses (relatives à l'humidité) provoquant une surmortalité.
+
+Et qu'à l'horizon 2100, si rien n'est fait pour réduire les émissions de gaz à effet de serre, se sera 74% de la population mondiale qui sera exposée à de tels conditions climatiques. Plus précisément, les moyennes latitudes (40° nord ou sud, comme New-York ou Paris) subiront ces conditions 60 jours par an, contre presque l'année entière dans les régions tropicales humides.
+
+Des milliards de personnes vivront donc presque toute l'année dans des conditions de températures et d'humidité caniculaires intenses provoquant une surmortalité.
 
 Sans tenir compte donc des baisses de rendement agricoles, qui méritent d’être mieux étudiées, même si abordées par l'<a href="https://www.ipcc.ch/srccl/chapter/summary-for-policymakers/">un des derniers rapports spéciaux du GIEC</a>, combien y aura-t-il de morts et de réfugiés climatiques ?
 
