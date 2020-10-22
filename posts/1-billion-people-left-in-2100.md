@@ -23,7 +23,7 @@ On remarque notamment des reprises par des sites  anglo saxons populaires traita
 Ainsi qu'en France par :
 - Resistance climatique : <a href="https://www.resistanceclimatique.org/invbc">Guide de formation / Guide de l’animateur INVBC (p. 16)</a>
 
-<small><u><b>Edit (14/10/2020)</b></u> : Suite à notre sollicitation, Resistance climatique a indiqué qu'ils allaient corriger le guide INVBC prochainement.</small>
+<small><u><b>Modification (14 octobre 2020)</b></u> : Suite à notre sollicitation, Resistance climatique a indiqué qu'ils allaient corriger le guide INVBC prochainement.</small>
 - La fresque du climat dans une interview sur BFMTV :
 <div class="video-container">
      <iframe src="https://www.youtube.com/embed/nALHscSDTSE?start=262" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -139,3 +139,5 @@ Et ce serait bien normal. En effet nous n'imaginons pas du tout le même monde a
 Il est important de garder une grande rigueur scientifique, non pas seulement de la part des producteurs de connaissance (les scientifiques), non pas seulement de la part des journalistes, dont c'est le métier de relayer l'information, mais également de la part de chaque citoyen qui se voit donner le même pouvoir que chaque journaliste avec les réseaux sociaux et leur énorme pouvoir de propagation de l'information.
 
 Car la rigueur scientifique est la meilleure arme et le meilleur bouclier que possède la lutte contre le changement climatique. Si nous ne la gardons pas, que nous baissons notre garde, nous risquons de le payer très cher. Car nos détracteurs ne manqueront pas une occasion nous mettre une flèche en plein coeur.
+
+<small><u><b>Dernière modification</b></u>: 22 octobre 2020</small>
