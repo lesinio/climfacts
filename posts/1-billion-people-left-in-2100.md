@@ -130,7 +130,7 @@ Un autre excellent site de fact checking est <a href="https://climatetippingpoin
 
 ## Conclusion
 
-Une simple erreur humaine de retranscription oral/écrit, dans un journal à forte audience, des propos d'une personne faisant autorité dans un domaine peut avoir une répercussion énorme à l'air d'internet et des réseaux sociaux.
+Une simple erreur humaine de retranscription oral/écrit, dans un journal à forte audience, des propos d'une personne faisant autorité dans un domaine peut avoir une répercussion énorme à l'ère d'internet et des réseaux sociaux.
 
 Il se peut que cette erreur ait modelé en profondeur la représentation mentale que beaucoup se font du monde en 2100 dans un scénario RCP 8.5.
 
