@@ -140,4 +140,8 @@ Il est important de garder une grande rigueur scientifique, non pas seulement de
 
 Car la rigueur scientifique est la meilleure arme et le meilleur bouclier que possède la lutte contre le changement climatique. Si nous ne la gardons pas, que nous baissons notre garde, nous risquons de le payer très cher. Car nos détracteurs ne manqueront pas une occasion nous mettre une flèche en plein coeur.
 
+<br>
+<p>Merci à <a href="https://twitter.com/loic_giaccone">Loïc Giaccone</a> pour sa relecture de l'article.</p>
+<br>
+
 <small><u><b>Dernière modification</b></u>: 22 octobre 2020</small>
