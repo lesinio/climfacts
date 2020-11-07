@@ -144,4 +144,4 @@ Car la rigueur scientifique est la meilleure arme et le meilleur bouclier que po
 <p>Merci à <a href="https://twitter.com/loic_giaccone">Loïc Giaccone</a> pour sa relecture de l'article et ses suggestions de correction.</p>
 <br>
 
-<small><u><b>Dernière modification</b></u>: 22 octobre 2020</small>
+<small><u><b>Dernière modification</b></u>: 7 novembre 2020</small>
