@@ -239,8 +239,8 @@
   <meta property="og:description" content={post.preview} />
   {#if post.preview_image}
     <meta property="og:image" content="{blogConfig.canon_host}{post.preview_image}" />
-    <meta property="og:image:width" content="1080">
-    <meta property="og:image:height" content="1080">
+    <meta property="og:image:width" content="800">
+    <meta property="og:image:height" content="600">
   {/if}
 
   <!-- Twitter -->
